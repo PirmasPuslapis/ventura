@@ -1,4 +1,4 @@
-# AsProdyktyvus.LT
+# Ventura Brewery
 
 ## Description
 
@@ -23,4 +23,3 @@ npm run build
 ```
 npm run lint
 ```
-# ventura
